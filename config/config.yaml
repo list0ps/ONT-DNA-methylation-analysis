@@ -1,0 +1,16 @@
+species:
+  - stygia
+  - hilli
+  - quadrimaculata
+  - vicina
+
+fastq_dir: data/filtered_fastq
+fast5_dir: data/raw_fast5
+
+reference:
+  stygia: results/genome/stygia.fasta 
+  hilli: results/genome/hilli.fasta
+
+bam_dir: results/bam
+qc_dir: results/qc
+log_dir: logs

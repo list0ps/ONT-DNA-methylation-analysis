@@ -1,4 +1,4 @@
-# ONT DNA Methylation Analysis – Blowfly Epigenomics
+# DNA Methylation Analysis (ONT data) – Blowfly Epigenomics
 
 This repository contains a Snakemake-based pipeline for detecting and analysing **5-methylcytosine (5mC)** patterns using **Oxford Nanopore Technologies (ONT)** data from *Calliphora stygia* and *Calliphora hilli* blowfly populations. The goal is to compare methylation profiles between native and invasive populations, as part of a broader investigation into the genomic and epigenomic drivers of biological invasion success.
 
