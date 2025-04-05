@@ -1,0 +1,9 @@
+*.fast5
+*.fastq
+*.bam
+*.bai
+*.sam
+*.tmp
+__pycache__/
+*.log
+.DS_Store
